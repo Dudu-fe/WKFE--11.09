@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.header-container{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 65px;
+    padding-bottom: 59px;
+    align-items: center;
+    justify-content: space-between;
+}
+.text-container{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.form{ 
+    background: rgb(250, 201, 96);
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 92px;
+    padding-bottom: 92px;
+    color: rgb(138, 109, 47);
+}
+.button-form{
+    background: rgb(168, 134, 61);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding-left: 40px;
+    padding-right: 34px;
+    
+}
+.space{
+    background: rgb(242, 242, 242);
+}
+.share{
+    text-align: center;
+    background: rgb(250, 201, 96);
+}
+.end{
+    background: rgb(242, 242, 242);
+}
