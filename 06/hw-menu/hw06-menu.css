@@ -1,0 +1,85 @@
+.body{
+    
+}
+.page{
+    padding-right: 20px;
+    padding-left: 24px;
+    padding-top: 56px;
+    padding-bottom: 91px;
+    font-family: "Inter", sans-serif;
+    margin: 0 auto;
+    max-width: 360px;
+    max-height: 800px;
+}
+.click{
+    background: rgb(255, 255, 255);
+    border: none;
+}
+.h11{
+    font-size: 32px;
+}
+.text-in{
+    border-radius: 12px;
+    background: rgb(239, 239, 239);
+    color: rgb(153, 153, 153);
+    font-size: 12px;
+    text-align: left;
+    border: none;
+    margin-bottom: 17px;
+    width: 316px;
+    height: 44px;
+    padding-left: 15px;
+    width: 316px;
+    height: 44px;
+}
+.food-menu{
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+    text-align: center;
+}
+.choise1{
+    border-radius: 12px;
+    background: rgb(234, 226, 183);
+    padding: 18px;
+    text-align: center;
+}
+.choise2{
+    border-radius: 12px;
+    background: rgb(239, 239, 239);
+    padding: 18px;
+    
+}
+.choise3{
+    border-radius: 12px;
+    background: rgb(239, 239, 239);
+    padding: 18px;
+}
+.inactive{
+    color: rgb(196, 196, 196);
+}
+.h22{
+    font-size: 20px;
+    margin-bottom: 26px;
+}
+.foodcart{
+    display: flex;
+    flex-direction: column;
+}
+.burger{
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgb(230, 230, 230);
+    background: rgb(255, 255, 255);
+    font-size: 16px;
+    margin-bottom: 12px; 
+    padding: 12px;
+    width: 316px;
+    min-height: 88px;
+}
+.redt{
+    color: rgb(214, 40, 40);
+    font-size: 14px;
+    text-align: left;
+}
