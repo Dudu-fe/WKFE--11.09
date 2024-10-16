@@ -29,6 +29,7 @@ body{
 .cards{
     display: flex;
     column-gap: 26px;
+    align-items: flex-start;
 }
 .blocks{
     margin-top: 97px;
